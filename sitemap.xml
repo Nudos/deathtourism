@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://lasardenas.com/index.html</loc>
+    <lastmod>2018-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lasardenas.com/images/mapa%20final-crop-u331.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lasardenas.com/images/captura%20de%20pantalla%202018-11-24%20a%20las%20173450.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lasardenas.com/images/captura%20de%20pantalla%202018-11-25%20a%20las%20165612.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://lasardenas.com/assets/bullingen.mp3</loc>
+    <lastmod>2018-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lasardenas.com/assets/baugnez.mp3</loc>
+    <lastmod>2018-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lasardenas.com/assets/stavelot.mp3</loc>
+    <lastmod>2018-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lasardenas.com/assets/elsenborn.mp3</loc>
+    <lastmod>2018-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

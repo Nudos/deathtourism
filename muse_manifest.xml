@@ -1,0 +1,38 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lasardenas.com" resolutions="1x" timestamp="1543324022105">
+  <folder name="assets">
+    <file name="baugnez.mp3" crc="3815565322" seo="true" mt="1543162750000"/>
+    <file name="bullingen.mp3" crc="4252591896" seo="true" mt="1543162914000"/>
+    <file name="elsenborn.mp3" crc="3922217112" seo="true" mt="1543162624000"/>
+    <file name="stavelot.mp3" crc="123698652" seo="true" mt="1543161954000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4191856559" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u446.php" crc="4010223108" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="mapa final-crop-u331.jpg" crc="3885852548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-24 a las 173450.jpg" crc="3982704459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-25 a las 165612.jpg" crc="170751416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="18532703" seo="true" mt="1543323924941" redirect="true"/>
+</manifest>
